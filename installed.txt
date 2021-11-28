@@ -1,0 +1,5 @@
+com.github.copilot
+com.markskelton.one-dark-theme
+com.microsoft.vso.idea
+org.rust.lang
+org.toml.lang
